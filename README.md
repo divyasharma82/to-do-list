@@ -14,7 +14,7 @@ HTML5 & CSS3 🌐: For structuring and styling the app.
 LocalStorage 📦: To persist tasks even after refreshing the page.
 
 Installation 🛠️
-Clone this repository: git clone https://github.com/yourusername/todo-list-app.git
+Clone this repository: 
 Navigate to the project directory: cd todo-list-app
 Install dependencies: npm install
 Start the development server: npm start
